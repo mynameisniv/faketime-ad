@@ -5,6 +5,7 @@ Subtracts your current timezone
 Uses libfaketime to run the supplied command with the correct time of the DC.
 
 # Installation
+Install faketime (APT based systems - apt install faketime)
 Simply clone the repo and execute faketime-ad.sh
 You can also add the function run_faketime to your RC file (.zshrc is the default for Kali) and then use run_faketime tho it might not work well with proxychains
 
